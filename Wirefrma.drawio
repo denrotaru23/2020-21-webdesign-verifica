@@ -1,1 +1,40 @@
-<mxfile host="app.diagrams.net" modified="2021-02-02T07:21:03.156Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" version="14.2.9" etag="2EDDkAgs7cTbIkepH2l7" type="github"><diagram id="oHikWXj3OdgwStHMQyNE">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-02-02T08:34:53.989Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.104 Safari/537.36" etag="MzMivuHb6AZHaHsA4BX_" version="14.2.9" type="github">
+  <diagram id="oHikWXj3OdgwStHMQyNE" name="Page-1">
+    <mxGraphModel dx="1038" dy="523" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="30" width="250" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-2" value="" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="320" y="70" width="230" height="380" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-3" value="PARCHEGGIO ASIA&lt;br&gt;Milano, via corri 79&lt;br&gt;Ad 500 mt da te" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry width="230" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-4" value="PARCHEGGIO QUICK&lt;br&gt;Milano, via Torre 56&lt;br&gt;Ad 1,5 KM da te" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry y="95" width="230" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-5" value="PARCHEGGIO SASSETTI&lt;br&gt;Milano, via Franci 23&lt;br&gt;Ad 2,5 KM da te" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry y="190" width="230" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-6" value="PARCHEGGIO SAN BARBARA&lt;br&gt;Milano, via Casa 45&lt;br&gt;Ad 3 KM da te" style="strokeWidth=1;html=1;shadow=0;dashed=0;shape=mxgraph.android.rrect;rSize=0;align=left;spacingLeft=10;fontSize=8;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry y="285" width="230" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-8" value="prenota" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=#fff2cc;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry x="130" y="70" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-9" value="prenota" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fff2cc;whiteSpace=wrap;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry x="130" y="350" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-10" value="prenota" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#d6b656;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#fff2cc;whiteSpace=wrap;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry x="130" y="160" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="Z0ozHKDNfoyc7ZFxOxru-11" value="prenota" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#666666;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;whiteSpace=wrap;fillColor=#CCCCCC;" vertex="1" parent="Z0ozHKDNfoyc7ZFxOxru-2">
+          <mxGeometry x="130" y="250" width="90" height="20" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
