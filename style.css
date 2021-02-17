@@ -4,6 +4,10 @@ img{
 ul{
   list-style-type: none;
 }
-.torneo{
+.parcheg{
   font-weight: bold;
+}
+li{
+  border-style: solid;
+  border-width: 0.5px;
 }
